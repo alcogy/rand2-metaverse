@@ -1,6 +1,8 @@
-## Babylonjs Metaverse Research
+## Rand2 Metaverse
 
-The repository is research for babylonjs with browser based metaverse like app.
+Rand2 Metaverse is a research and development metaverse as web application.
+
+Implemented by babylonjs and vueJS on Frontend. 
 
 ### How To Start
 
