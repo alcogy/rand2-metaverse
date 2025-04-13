@@ -1,13 +1,14 @@
 {
   "name": "front",
   "version": "0.1.0",
-  "private": true,
   "scripts": {
     "dev": "vue-cli-service serve",
     "build": "vue-cli-service build",
     "test:unit": "vue-cli-service test:unit",
     "lint": "vue-cli-service lint"
   },
+  "author": "Alcogy Inc.",
+  "license": "MIT",
   "dependencies": {
     "@babylonjs/core": "^5.23.0",
     "@babylonjs/gui": "^5.23.0",
